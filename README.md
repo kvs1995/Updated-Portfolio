@@ -21,7 +21,7 @@
 
   ![a preview of my portfolio landing page view. Includes a navigation bar, a title and a hand drawn skyline of Chicago that is slowly being built.](./assets/images/landing.png)
   
-  ![a preview of the Portfolio and Contact Me section of my portfolio](./assets/images/portfolio)
+  ![a preview of the Portfolio and Contact Me section of my portfolio](./assets/images/portfolio.png)
 
   ## Contribution Guidelines
   No guidelines, except please do not copy the image that is serving as my background. This is a design that is still in progress and that is my own.
