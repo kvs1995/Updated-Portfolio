@@ -1,10 +1,40 @@
-# Assignment 2: Portfolio
+# Kendall Swanson - Portfolio V2 [![MIT License](<https://img.shields.io/badge/License-MIT-green.svg>)](https://opensource.org/licenses/MIT)
 
-Welcome to my (Kendall Swanson) portfolio! 
+  Learn about me and see how my coding knowledge has grown as I utilize CSS and HTML to create a fun responsive portfolio. This includes a brief biography of how I got into this field, as well as what projects I have under my belt. I hope that it gives you a sense of who I am and why I love creating these websites so much! 
 
-I have created a mockup porfolio that will be used to highlight my skills and web development projects. 
+  # Table of Contents
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contribution Guidelines](#contribution-guidelines)
+  * [Tests](#tests)
+  * [Questions](#questions)
+  * [License](#license)
 
-In this version of the porfolio, I have utilized flexbox, media queries, and CSS variables to create my website's backbone that I can continue to build on as I add more skills to my repertoire. 
+  ---
+  ## Installations
+  No installation instructions - simply click the link to the deployed application and enjoy. 
 
-You can visit the application here: https://kvs1995.github.io/HWK2_Portfolio_KS/
+  ## Usage
+  This is the second version of my portfolio, built from scratch. 
+  
+  Take a look at this short video for a walkthrough on how to use the application:
 
+  ![a preview of my portfolio landing page view. Includes a navigation bar, a title and a hand drawn skyline of Chicago that is slowly being built.](./assets/images/landing.png)
+  
+  ![a preview of the Portfolio and Contact Me section of my portfolio](./assets/images/portfolio)
+
+  ## Contribution Guidelines
+  No guidelines, except please do not copy the image that is serving as my background. This is a design that is still in progress and that is my own.
+
+  ## Tests
+  No test instructions.
+
+  ## Questions
+  
+  If you have any questions or would like to contact me regarding aspects of this project, I can be reached at:
+  * GitHub: kvs1995
+  * Email: kvswan6408@gmail.com
+
+
+  ## License: MIT
+      This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
